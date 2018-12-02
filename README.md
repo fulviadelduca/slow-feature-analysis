@@ -9,3 +9,7 @@ SFA (Slow Feature Analysis) is an unsupervised learning algorithm for extracting
 #### About the project
 
 This project aims at the implementation of the SFA algorithm in Python. Firstly, I will focus on linear SFA transformations on a 2-dimensional time-dependent signal. Secondly, I will use linear SFA on a high-dimentional correlated signal, simulating a slowly moving input to the receptive of a hypothetical visual cell.
+
+#### Results
+
+![Five slowest and fastest components](https://github.com/fulviadelduca/slow-feature-analysis/blob/master/Figures/final_plot.jpg)
