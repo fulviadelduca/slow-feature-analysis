@@ -14,4 +14,6 @@ This project aims at the implementation of the SFA algorithm in Python. Firstly,
 
 #### Results
 
+![Slowest eigenvectors](https://github.com/fulviadelduca/slow-feature-analysis/blob/master/Figures/slowest_eigv.pdf)
+
 ![Five slowest and fastest components](https://github.com/fulviadelduca/slow-feature-analysis/blob/master/Figures/final_plot.jpg)
