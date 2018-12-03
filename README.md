@@ -14,6 +14,8 @@ This project aims at the implementation of the SFA algorithm in Python. Firstly,
 
 #### Results
 
-![Slowest eigenvectors](https://github.com/fulviadelduca/slow-feature-analysis/blob/master/Figures/slowest_eigv.pdf)
+![Slowest eigenvectors](https://github.com/fulviadelduca/slow-feature-analysis/blob/master/Figures/slowest_eigv.jpg)
+Here, we can see how the shape of the first five eigenvectors (plotted against the pixels of the receptive field) corresponds to the core concept of SFA: the slowness of these components is reflected in the frequency of the sinusoidal. Thus, the five slowest eigenvectors represent the slowest varying features because they are varying slowly over the range of the receptive field.
 
 ![Five slowest and fastest components](https://github.com/fulviadelduca/slow-feature-analysis/blob/master/Figures/final_plot.jpg)
+Here, the five slowest components of the signal in the SFA basis are plotted, compared to the five fastest components. We can clearly see how the slowness decreases among the components.
